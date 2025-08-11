@@ -4,7 +4,7 @@
  Configure and test basic firewall rules to allow or block traffic.  
 
  ## Tools Used
-OS : Linux Debian, Windows 11
+OS : Linux Debian, Windows 11  
 UFW (Uncomplicated Firewall)  
 SSH, Telnet, CMD
 
